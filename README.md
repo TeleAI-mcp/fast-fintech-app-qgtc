@@ -1,2 +1,3 @@
-# fast-fintech-app-qgtc
-A financial technology application for modern development workflows
+# Fast Fintech App Qgtc
+
+A financial technology application for modern development workflows.
